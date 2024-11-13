@@ -1,23 +1,24 @@
+/*Wesley Almeida Silva 3ºD 14/11/2024*/
 criaCartao(
-    'Esporte',
-    'Qantas Champions tem o Real Madrid?',
-    'O Real Madrid possui 15 champions'
+    'Geografia',
+    'Qual o menor país do mundo?',
+    'Vaticano'
 )
 
 criaCartao(
-    'Filmes',
-    'Quem foi o vilão de Vingadores Ultimato?',
-    'Thanos'
+    'Biologia',
+    'Qual é o maior invertebrado do Reino Animal?',
+    'Lula gigante'
 )
 
 criaCartao(
-    'Musica',
-    'Quais os nomes em ordem de cada corda do violão?',
-    '1°Mi, 2°Si, 3°Sol, 4°Ré, 5°Lá, 6°Mi'
+    'História',
+    'Quem foi o presidente do Brasil no Estado Novo?',
+    'Getúlio Vargas'
 )
 
 criaCartao(
-    'Eletronicos',
-    'Qual foi o ultimo processador lançado pela intel?',
-    'Intel Core I9'
+    'Geografia',
+    'Qual o maior bairro de São Paulo?',
+    'Parelheiros'
 )
